@@ -1,0 +1,39 @@
+{
+  "buku": [
+    {
+      "id": 1,
+      "nama": "Pemrograman Dasar KLS 9",
+      "harga": 10000,
+      "stok": 12,
+      "img": "pemdas.png"
+    },
+    {
+      "id": 2,
+      "nama": "Struktur Data",
+      "harga": 25000,
+      "stok": 6,
+      "img": "strukturdata.png"
+    },
+    {
+      "id": 3,
+      "nama": "Kalkulus",
+      "harga": 12000,
+      "stok": 2,
+      "img": "kalkulus.png"
+    }
+  ],
+  "usernya": [
+    {
+      "id": 1,
+      "nama": "Chandra",
+      "nim": 190030322,
+      "alamat": "mengwi"
+    },
+    {
+      "id": 2,
+      "nama": "Agnitama",
+      "nim": 190034532,
+      "alamat": "buleleng"
+    }
+  ]
+}
