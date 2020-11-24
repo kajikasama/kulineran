@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## ScreenShoot Project
 
-![ScreenShoot Project](background.png)
+![Screenshot Project](background.png)
